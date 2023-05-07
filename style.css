@@ -2,3 +2,20 @@ body{
     background-color: cadetblue;
     font-size: 24px;
 }
+
+/*.btn{*/
+/*    padding: 10px;*/
+/*    border-radius: 4px;*/
+/*    outline: none;*/
+/*    background-color: darkred;*/
+/*    color: antiquewhite;*/
+/*    font-size: 16px;*/
+/*}*/
+
+.text{
+    border: solid 2px rgba(100, 239, 54, 0.81);
+    border-radius: 5px;
+    min-width: 200px;
+    margin: 10px;
+    padding: 5px;
+}

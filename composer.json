@@ -1,0 +1,12 @@
+{
+    "name": "poul/begin",
+    "description": "first projects",
+    "authors": [
+        {
+            "name": "pavel"
+        }
+    ],
+    "require": {
+
+    }
+}
